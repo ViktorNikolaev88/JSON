@@ -1,16 +1,4 @@
 {
-  "Skills": [
-    {
-      "first_skill": "Testing",
-      "second_skill": "Bug_report",
-      "third_skill": "Regression testing",
-      "fourth_skill": "Black_box_testing",
-      "fifth_skill": "Quality_control",
-      "six_skill" : "Exploratory testing"
-    }
-  ]
-} 
-{
   "favourite_film":"Terminator_2",
   "favourite_series":"LOST",
   "favourite_food":"potato",
